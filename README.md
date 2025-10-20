@@ -44,5 +44,19 @@ To build a system that detects the **ripeness of sugarcane** using **image color
   - Tkinter
   - ttk (for modern widgets)
 
+## OUTPUT SCREENSHOTS :
 
+- Fully Ripe -
+  
+![Screenshot (495)](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/1ab254d2a06b4d305ccbd46f33ca3507c9bf122a/Output-Fully_Ripe.png)
+
+- Partially Ripe -
+
+![Screenshot (495)](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/1ab254d2a06b4d305ccbd46f33ca3507c9bf122a/Output-Partially_Ripe.png)
+
+- Unripe -
+
+![Screenshot (495)](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/1ab254d2a06b4d305ccbd46f33ca3507c9bf122a/Output-Unripe.png)
+  
       
+
