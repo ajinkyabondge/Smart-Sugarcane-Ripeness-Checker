@@ -48,5 +48,6 @@ To build a system that detects the **ripeness of sugarcane** using **image color
 
    1] Fully-Ripe :
 
-      ![image alt](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/05d0bd9df341bc73ae0ad5f43dbb440f9fb59b54/Output-Fully_Ripe.png)
+      ![image alt](<img width="1915" height="1008" alt="image" src="https://github.com/user-attachments/assets/98821a95-f097-4e16-aece-28ab6d30df10" />
+)
       
