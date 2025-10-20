@@ -29,12 +29,12 @@ To build a system that detects the **ripeness of sugarcane** using **image color
 
 ## 🧩 Key Features :
 
-✅ Non-destructive & real-time ripeness detection
-✅ No machine learning or dataset required
-✅ Accurate color-based HSV analysis
-✅ Beautiful Tkinter GUI with progress bar visualization
-✅ Option to save analysis reports in .txt format
-✅ Works completely offline
+- Non-destructive & real-time ripeness detection
+- No machine learning or dataset required
+- Accurate color-based HSV analysis
+- Beautiful Tkinter GUI with progress bar visualization
+- Option to save analysis reports in .txt format
+- Works completely offline
 
 ## 🛠️ Tech Stack :
   - Python 3
@@ -45,3 +45,8 @@ To build a system that detects the **ripeness of sugarcane** using **image color
   - ttk (for modern widgets)
 
 ## 🖼️ Output Screenshots :
+
+   1] Fully-Ripe :
+
+      ![image alt](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/05d0bd9df341bc73ae0ad5f43dbb440f9fb59b54/Output-Fully_Ripe.png)
+      
