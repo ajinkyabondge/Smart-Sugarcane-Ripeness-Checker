@@ -1,0 +1,5 @@
+--- Sugarcane Ripeness Report ---
+Image: sugarcane-8.jpg
+Ripeness: 58.30% (Partially Ripe)
+
+Analysis Completed Successfully.
