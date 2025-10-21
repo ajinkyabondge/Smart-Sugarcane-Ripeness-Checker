@@ -1,4 +1,4 @@
-# 🌾 Smart-Sugarcane-Ripeness-Checker
+# 🎋 Smart-Sugarcane-Ripeness-Checker
 
 An **intelligent Python-based tool** that analyzes sugarcane images to instantly determine ripeness using **HSV color detection**.  
 It provides **accurate, non-destructive, and real-time results**, classifying canes as **Unripe, Partially Ripe, or Fully Ripe** through a clean, interactive **Tkinter GUI** — bridging **technology and agriculture**.
@@ -48,15 +48,15 @@ To build a system that detects the **ripeness of sugarcane** using **image color
 
 - Fully Ripe -
   
-![Screenshot (495)](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/1ab254d2a06b4d305ccbd46f33ca3507c9bf122a/Output-Fully_Ripe.png)
+![Screenshot (495)](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/f6be57a18d78e04096ff4584c48e726842d6ddee/Output-Fully%20Ripe.png)
 
 - Partially Ripe -
 
-![Screenshot (495)](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/1ab254d2a06b4d305ccbd46f33ca3507c9bf122a/Output-Partially_Ripe.png)
+![Screenshot (495)](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/f6be57a18d78e04096ff4584c48e726842d6ddee/Output-Partially%20Ripe.png)
 
 - Unripe -
 
-![Screenshot (495)](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/1ab254d2a06b4d305ccbd46f33ca3507c9bf122a/Output-Unripe.png)
+![Screenshot (495)](https://github.com/ajinkyabondge/Smart-Sugarcane-Ripeness-Checker/blob/84cca2fb6938f918265ad3aa5b6c6d087b405ac9/Output-Unripe.png)
   
       
 
